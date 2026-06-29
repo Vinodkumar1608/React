@@ -23,7 +23,7 @@ const content = [
     "Vanilla JavaScript requires imperative programming",
     "Imperative Programming: You define all the steps needed to achieve a result",
     "React on the other hand embraces declarative programming",
-    "With React, you define the goal and React figures out how to get there"
+    "With React, you define the goal and React figures out how to get there verify"
   ]
 ];
 
